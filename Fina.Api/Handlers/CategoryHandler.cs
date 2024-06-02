@@ -18,6 +18,7 @@ public class CategoryHandler : ICategoryHandler
 
     public async Task<Response<Category?>> CreateAsync(CreateCategoryRequest request)
     {
+        
         var category = new Category
         {
             UserId = request.UserId,

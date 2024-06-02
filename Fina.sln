@@ -5,9 +5,9 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fina.Api", "Fina.Api\Fina.Api.csproj", "{E245CD79-E742-43E5-BD4D-03FF09DCDC39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Web", "Fina.Web\Fina.Web.csproj", "{61B7046F-BC0B-4CA2-9E53-66DCA66AE465}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fina.Web", "Fina.Web\Fina.Web.csproj", "{61B7046F-BC0B-4CA2-9E53-66DCA66AE465}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Core", "Fina.Core\Fina.Core.csproj", "{B6B534D8-89DD-4221-B442-6671EB4816D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fina.Core", "Fina.Core\Fina.Core.csproj", "{B6B534D8-89DD-4221-B442-6671EB4816D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
